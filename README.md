@@ -2,7 +2,7 @@
 
 ## Problem Definition
 
-Identify and differentiate ocular disease given structured desensitized ophthalmology image set of patient's age, sex, binocular color fundus photos, and doctors' diagnostic keywords.
+Identify whether or not the patient has Pneumonia based on a Chest X-ray image.
 
 ## Data
 
